@@ -1,4 +1,5 @@
-# Spectroscopic Classification Tools Accuracy: Kim et al. 
+# Spectroscopic Classification Tools Accuracy.
+# Kim et al. 
 
  Tables for Fig. 6 (performance evaluation mectrics for SNID, NGSF, and DASH).
  
