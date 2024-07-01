@@ -7,6 +7,7 @@
 
 > [!NOTE]
 > [] in below is one of sample categories: cat2, cat5
+
 > {} is one of types: Ia, Ibc, II, SLSN, NotSN/NonIa
   
 
